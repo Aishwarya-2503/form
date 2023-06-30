@@ -1,0 +1,13 @@
+.form{
+  display: flex;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  color: maroon;
+  width: 200px;
+  height: 30px;
+  flex-direction: column;
+}
+button{
+  color: darkslategray;
+  font-style: italic;
+}
